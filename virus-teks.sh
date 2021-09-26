@@ -34,7 +34,7 @@ echo -e -n "\033[37;1m ╚═\033[32;1m▶\033[37;1mchoose \033[32;1m> "
 read pil
 if [ $pil = "1" ]; then
 echo -e "\033[37;1m ══\033[32;1m▶\033[37;1m Sedang Membuat virtex"
-cp -f virus1.txt /sdcard
+cp -f virus-1.txt /sdcard
 sleep 6
 echo -e "\033[37;1m ══\033[32;1m▶\033[37;1m selesai"
 echo -e "\033[37;1m ══\033[32;1m▶\033[37;1m Virtex Berada di sdcard ff.txt"
