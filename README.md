@@ -14,5 +14,4 @@
 
 - bash virus-teks.sh
 
-- bash virus-teks
 ```
